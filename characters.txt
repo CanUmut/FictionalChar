@@ -1,0 +1,19 @@
+Wizard Gandalf 99 2.0 50 8 70 Baton Earth
+Wizard HarryPotter 20 6.0 70 7 70 Wand Air
+Wizard Dr.Strange 46 8.0 80 8 70 MagicalCape Fire
+Animation Rick 60 5.0 90 10 80 PortalGun Midi Morty
+Animation Toothless 10 10.0 60 6 90 BlueFlame Illegal Hiccup
+Animation Boo 5 4.0 25 3 1 None Illegal James
+Animation SpongeBob 20 4.0 35 3 20 Spatula Cutie Patrick
+SuperHero Spiderman 18 8.0 70 8 60 Web
+SuperHero Batman 40 6.0 75 8 70 BatMobile
+SuperHero DeadPool 30 7.0 100 7 40 Katana
+SuperHero Daredevil 35 7.0 65 8 30 Stick
+Villain Joker 60 7.0 65 9 45 Pistol PureEvil
+Villain It 100 6.0 75 7 30 Hypnotization PureEvil
+Villain AgentSmith 40 8.0 70 7 60 Pistol WeakEvil
+Villain DarthVader 70 6.0 60 7 50 LightSaber Evil
+Eternal Thor 38 7.0 65 6 70 Mjolnir
+Eternal Athena 100 4.0 75 9 50 SpearAndShield
+Eternal Ra 100 6.0 70 7 55 Baton
+Eternal Poseidon 100 8.0 80 7 50 Trident
